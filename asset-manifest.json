@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://maxmp717.github.io/csb-t6f9ng/static/css/main.4e67fbf5.chunk.css",
-    "main.js": "https://maxmp717.github.io/csb-t6f9ng/static/js/main.d9c8f523.chunk.js",
-    "main.js.map": "https://maxmp717.github.io/csb-t6f9ng/static/js/main.d9c8f523.chunk.js.map",
+    "main.js": "https://maxmp717.github.io/csb-t6f9ng/static/js/main.a686c06f.chunk.js",
+    "main.js.map": "https://maxmp717.github.io/csb-t6f9ng/static/js/main.a686c06f.chunk.js.map",
     "runtime-main.js": "https://maxmp717.github.io/csb-t6f9ng/static/js/runtime-main.c96ffa7a.js",
     "runtime-main.js.map": "https://maxmp717.github.io/csb-t6f9ng/static/js/runtime-main.c96ffa7a.js.map",
     "static/js/2.93e36e0b.chunk.js": "https://maxmp717.github.io/csb-t6f9ng/static/js/2.93e36e0b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c96ffa7a.js",
     "static/js/2.93e36e0b.chunk.js",
     "static/css/main.4e67fbf5.chunk.css",
-    "static/js/main.d9c8f523.chunk.js"
+    "static/js/main.a686c06f.chunk.js"
   ]
 }
